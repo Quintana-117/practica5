@@ -1,3 +1,9 @@
+COMIDAS FAVORITAS
 Pizza
 Tacos
 Sushi
+
+PELICULAS FAVORITAS
+Matrix
+Inception
+Spirited Away
